@@ -29,8 +29,6 @@ This project implements an Actor-Critic Reinforcement Learning model to solve th
 5. **Plotting the Learning Curve:**
    - The learning curve is plotted to show the cumulative rewards obtained by the trained Actor-Critic model, the evaluation phase, and the random policy.
 
-   ![Learning Curve](path_to_learning_curve_plot.png)
-
 ### How to Use:
 1. **Clone the Repository:**
    - Clone the repository to your local machine using `git clone`.
@@ -43,9 +41,11 @@ This project implements an Actor-Critic Reinforcement Learning model to solve th
 
 ### Visualizations:
 This project includes a key visualization to help interpret the model's performance:
+<img width="364" alt="image" src="https://github.com/user-attachments/assets/e6fe937e-b731-4e1e-a2f6-85a0f36dcea6">
+
 
 1. **Learning Curve:**
-   - ![Learning Curve](path_to_learning_curve_plot.png)
+  <img width="729" alt="image" src="https://github.com/user-attachments/assets/6c4c7ab0-4273-4dda-a2f2-cefae0505606">
 
 ### Conclusion:
 This project demonstrates the implementation of an Actor-Critic reinforcement learning model for the LunarLander-v2 environment. The model is trained to achieve safe landings, and its performance is evaluated and compared with a random policy baseline. The learning curve visualization highlights the effectiveness of the Actor-Critic approach in this context.
